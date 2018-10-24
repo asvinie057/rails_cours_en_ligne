@@ -1,25 +1,21 @@
-# README
+# ![CI status](http://oi68.tinypic.com/ngf2uo.jpg)    
+#  The Hacking Project
+<br/>
+<h2>Semaine 4 - Mercredi 24 octobre : Rails</h2>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<body>
 
-Things you may want to cover:
+<h1>Introduction</h1>
 
-* Ruby version
+<h5>
+ Étapes à suivre:
+ </h5>
+<ol>
+ <li>Faites un git clone: <code>git clone https://github.com/asvinie057/rails_cours_en_ligne.git</code></li>
+ <li>Installez nos gems: <code>bundle install</code></li>
 
-* System dependencies
+</ol>
 
-* Configuration
+<h2>Rails</h2>
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails_cours_en_ligne
+</body>
